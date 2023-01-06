@@ -19,16 +19,16 @@ function Contact() {
             no matter the complexity of the project.
           </p>
           <h3>Known Technologies</h3>
-          <ul>
-            <li>HTML5, CSS, Javascript, JQuery, Bootstrap, Bulma, Nodejs, MySQL, MongoDB, Express, Handelbars.js</li>
-            <li>React.js, JSX, Components, Props and State.</li>
-          </ul>
+          <p>
+            HTML5, CSS, Javascript, JQuery, Bootstrap, Bulma, Nodejs, MySQL, MongoDB, Express, C#, VUE.JS, React.js
+          
+          </p>
 
         </div>
         <div className="col l6">
           <img
             className="portImage"
-            src="https://github.com/Jorgelopez5252/react-resume/blob/gh-pages/images/portphoto.jpeg?raw=true"
+            src="https://github.com/Jorgelopez5252/port2023/blob/master/react-portfolio/public/images/portphoto.jpeg?raw=true"
             alt="mock"
           />
         </div>
