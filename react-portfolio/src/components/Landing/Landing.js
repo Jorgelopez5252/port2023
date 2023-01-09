@@ -7,9 +7,12 @@ function Landing() {
     <div class="row">
     <div class="col s12 m4">
           <div>
-          <img src='/public/images/html.png' alt="Logo" />
+          <img
+            className="portImage"
+            src="https://github.com/Jorgelopez5252/port2023/blob/master/react-portfolio/public/images/html.png?raw=true"
+            alt="mock"
+          />
             <h5 class="center">HTML</h5>
-
             <p class="light">Heavy Knowledge of basic and advance HTML5 syntax, all from paragraphs, links, forms, media
               to more advanced features such as ASP.NET Razor Syntax. Created HTML emails and tested functionality
               across multiple email providers with various tools such as Firebase. An Understanding how to create custom
