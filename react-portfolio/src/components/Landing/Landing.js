@@ -4,28 +4,44 @@ import "./Landing.css";
 function Landing() {
   return (
     <div className="container">
-      <br></br>
-      <div className="row">
-        <div className="col l6">
-          <h2>2023</h2>
-          <p>
-            2023
-          </p>
-          <h3>Known Technologies</h3>
-          <p>
-            HTML5, CSS, Javascript, JQuery, Bootstrap, Bulma, Nodejs, MySQL, MongoDB, Express, C#, VUE.JS, React.js
-          
-          </p>
+    <div class="row">
+    <div class="col s12 m4">
+          <div>
+          <img src='/public/images/html.png' alt="Logo" />
+            <h5 class="center">HTML</h5>
 
+            <p class="light">Heavy Knowledge of basic and advance HTML5 syntax, all from paragraphs, links, forms, media
+              to more advanced features such as ASP.NET Razor Syntax. Created HTML emails and tested functionality
+              across multiple email providers with various tools such as Firebase. An Understanding how to create custom
+              attributes using data-*. Keen understanding on how to build HTML documents semantically and keep within
+              ADA Rules and any compliance required.</p>
+          </div>
         </div>
-        <div className="col l6">
-          <img
-            className="portImage"
-            src="https://github.com/Jorgelopez5252/port2023/blob/master/react-portfolio/public/images/portphoto.jpeg?raw=true"
-            alt="mock"
-          />
+
+        <div class="col s12 m4">
+          <div>
+            <h5 class="center">FRONT-END</h5>
+
+            <p class="light">Knowledge of various frameworks such as but not limited to Bulma, Bootstrap, ZURB
+              Foundation and Materialize. Ability to use Sass to build websites based on mockups and prototypes.
+              Optimized images with Photoshop and Illustrator. Worked within UX/UI design tools including XD, Sketch and
+              Figma. Integrated websites with social networks & SVG animations to provide details and style, usability
+              to websites.</p>
+          </div>
         </div>
-      </div>
+
+        <div class="col s12 m4">
+          <div>
+            <h5 class="center">BACK-END</h5>
+
+            <p class="light">Various experience's using a wide range of back-end tools and languages successfully such
+              as JavaScript, C#, Express.js, REST API, Node.js, MySQL, REACT.js, and VUE.js. Heavy knowledge in
+              Asynchronous programming, writing cross-browser code, React JSX, Hooks & components. Virtual DOM
+              manipulation, testing/debugging. Server side knowledge on how to make calls and responses to and from
+              Databases & Servers.</p>
+          </div>
+        </div>
+    </div>
     </div>
   );
 }

@@ -15,7 +15,7 @@ function Footer() {
             </p>
           </div>
           <div className="col l4 offset-l2 s12">
-            <h5 className="white-text">Links</h5>
+            <h5 className="white-text">Contact Me</h5>
             <ul>
               <li>
                 <a className="grey-text text-lighten-3" href="https://github.com/Jorgelopez5252" target="blank">
@@ -39,7 +39,7 @@ function Footer() {
         </div>
       </div>
       <div className="footer-copyright">
-        <div className="container">© 2020 Copyright</div>
+        <div className="container">© 2023 Copyright</div>
       </div>
     </footer>
   );
