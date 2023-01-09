@@ -8,7 +8,7 @@ function Landing() {
     <div class="col s12 m4">
           <div>
           <img
-            className="portImage"
+            className="techImage"
             src="https://github.com/Jorgelopez5252/port2023/blob/master/react-portfolio/public/images/html.png?raw=true"
             alt="mock"
           />
@@ -23,6 +23,11 @@ function Landing() {
 
         <div class="col s12 m4">
           <div>
+          <img
+            className="techImage"
+            src="https://github.com/Jorgelopez5252/port2023/blob/master/react-portfolio/public/images/css.png?raw=true"
+            alt="mock"
+          />
             <h5 class="center">FRONT-END</h5>
 
             <p class="light">Knowledge of various frameworks such as but not limited to Bulma, Bootstrap, ZURB
@@ -35,12 +40,17 @@ function Landing() {
 
         <div class="col s12 m4">
           <div>
+          <img
+            className="techImage"
+            src="https://github.com/Jorgelopez5252/port2023/blob/master/react-portfolio/public/images/javascript.png?raw=true"
+            alt="mock"
+          />
             <h5 class="center">BACK-END</h5>
 
             <p class="light">Various experience's using a wide range of back-end tools and languages successfully such
               as JavaScript, C#, Express.js, REST API, Node.js, MySQL, REACT.js, and VUE.js. Heavy knowledge in
               Asynchronous programming, writing cross-browser code, React JSX, Hooks & components. Virtual DOM
-              manipulation, testing/debugging. Server side knowledge on how to make calls and responses to and from
+              manipulation, testing and debugging. Server side knowledge on how to make calls and responses to and from
               Databases & Servers.</p>
           </div>
         </div>
