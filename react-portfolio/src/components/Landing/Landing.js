@@ -1,7 +1,7 @@
 import React from "react";
 import "./Landing.css";
 
-function Landing() {
+function Skills() {
   return (
     <div className="container">
     <div class="row">
@@ -59,4 +59,4 @@ function Landing() {
   );
 }
 
-export default Landing;
+export default Skills;

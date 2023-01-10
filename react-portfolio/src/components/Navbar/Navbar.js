@@ -14,7 +14,7 @@ function Navbar() {
             <a href="/projects">Projects</a>
           </li>
           <li>
-            <a href="/landing">Landing</a>
+            <a href="/landing">Skills & Achievments</a>
           </li>
         </ul>
       </div>
