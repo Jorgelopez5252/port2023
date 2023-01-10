@@ -9,7 +9,7 @@ function Skills() {
           <div>
           <img
             className="techImage"
-            src="https://github.com/Jorgelopez5252/port2023/blob/master/react-portfolio/public/images/html.png?raw=true"
+            src="https://github.com/Jorgelopez5252/port2023/blob/master/react-portfolio/public/images/rsz_1html.png?raw=true"
             alt="mock"
           />
             <h5 class="center">HTML</h5>
@@ -25,7 +25,7 @@ function Skills() {
           <div>
           <img
             className="techImage"
-            src="https://github.com/Jorgelopez5252/port2023/blob/master/react-portfolio/public/images/css.png?raw=true"
+            src="https://github.com/Jorgelopez5252/port2023/blob/master/react-portfolio/public/images/rsz_css.png?raw=true"
             alt="mock"
           />
             <h5 class="center">FRONT-END</h5>
@@ -42,7 +42,7 @@ function Skills() {
           <div>
           <img
             className="techImage"
-            src="https://github.com/Jorgelopez5252/port2023/blob/master/react-portfolio/public/images/javascript.png?raw=true"
+            src="https://github.com/Jorgelopez5252/port2023/blob/master/react-portfolio/public/images/rsz_javascript.png?raw=true"
             alt="mock"
           />
             <h5 class="center">BACK-END</h5>
